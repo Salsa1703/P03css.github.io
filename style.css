@@ -1,0 +1,23 @@
+body{
+	background-color: #8FBC8F;
+
+}
+.tabel{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+td{
+	background-color: #BDB76B;
+	padding: 25px;
+
+}
+table, td{
+	table-layout: fixed;
+
+}
+table, td:hover{
+	background-color: white;
+	
+}
